@@ -9,6 +9,8 @@ Dart Code can be [installed from the Visual Studio Code Marketplace](https://mar
 - Syntax Highlighting
 
 - Code completion
+<img src=https://github.com/8Bit1Byte/vscode-bhailang/blob/main/assets/autocomplete.gif>
+
 
 ## Requirements
 
