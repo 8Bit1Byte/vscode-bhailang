@@ -26,5 +26,6 @@
             "scopeName": "source.bhai",
             "path": "./syntaxes/bhailang.tmLanguage.json"
         }]
-    }
+    },
+    "icon": "assets/images/logo128.png"
 }
