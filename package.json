@@ -1,0 +1,30 @@
+{
+    "name": "bhailangofficial",
+    "displayName": "Bhailang",
+    "publisher": "Exploore X",
+    "description": "Bhhailang language support with syntax highlighting, autocomplete feature and debugger for Visual Studio Code",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.65.0"
+    },
+    "categories": [
+        "Programming Languages", "Formatters", "Debuggers", "Linters", "Snippets"
+    ],
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "contributes": {
+        "languages": [{
+            "id": "bhailang",
+            "aliases": ["Bhailang", "bhailang"],
+            "extensions": [".bhai"],
+            "configuration": "./language-configuration.json"
+        }],
+        "grammars": [{
+            "language": "bhailang",
+            "scopeName": "source.bhai",
+            "path": "./syntaxes/bhailang.tmLanguage.json"
+        }]
+    }
+}
