@@ -8,10 +8,12 @@ Dart Code can be [installed from the Visual Studio Code Marketplace](https://mar
 
 - Syntax Highlighting
 
-Before extension installed
+### Before extension installed
+
 <img src=https://github.com/8Bit1Byte/vscode-bhailang/blob/main/assets/syntaxhighlight.gif>
 
-After extension installed
+### After extension installed
+
 <img src=https://github.com/8Bit1Byte/vscode-bhailang/blob/main/assets/afterextension.jpg>
 
 
